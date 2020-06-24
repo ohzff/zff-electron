@@ -1,0 +1,43 @@
+{
+  "name": "zff-electron",
+  "version": "1.1.1",
+  "description": "LanGong Zff Game with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "repository": "https://github.com/langong-dev/electron-zff",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "langong-dev",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^9.0.5",
+    "electron-builder": "^22.7.0"
+  },
+  "build": {
+    "productName": "zff-electron",
+    "appId": "zff-electron",
+    "copyright": "Made by LanGong",
+    "directories": {
+      "output": "build"
+    },
+    "linux": {
+      "icon": "icon.png",
+      "target": "AppImage"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "url": "https://github.com/langong-dev/electron-zff"
+      }
+    ]
+  }
+}
