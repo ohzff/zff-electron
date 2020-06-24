@@ -16,7 +16,7 @@
 Copyright (c) 2020 LanGong
 ```
 
-![](https://img.shields.io/github/tag/langong-dev/.svg)
+![](https://img.shields.io/github/tag/langong-dev/zff-electron.svg)
 ![](https://img.shields.io/github/release/langong-dev/zff-electron.svg)
 ![](https://img.shields.io/github/stars/langong-dev/zff-electron.svg)
 ![](https://img.shields.io/github/forks/langong-dev/zff-electron.svg)
