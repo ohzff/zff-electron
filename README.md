@@ -25,6 +25,17 @@ Copyright (c) 2020 LanGong
 
 # LanGong Zff Electron
 
+- Committed to creating a better game 
+- 致力于打造更完美的游戏
+
+LanGong Zff Game 蓝光撞FuFu游戏 
+
+## You can use zff-electron game on
+
+- [x] Windows
+- [x] MacOS
+- [x] Linux (any)
+
 ## Install
 
 ### Git Clone
