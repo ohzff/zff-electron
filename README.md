@@ -36,6 +36,15 @@ LanGong Zff Game 蓝光撞FuFu游戏
 - [x] MacOS
 - [x] Linux (any)
 
+## Rely
+
+zff-electron is rely on electron and more node modules
+
+- node
+- npm or yarn
+- electron `npm i electron`
+- *LanFilePackage option*
+
 ## Install
 
 ### Git Clone
