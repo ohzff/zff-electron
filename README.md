@@ -41,7 +41,7 @@ LanGong Zff Game 蓝光撞FuFu游戏
 ### Git Clone
 
 ```bash
-git clone https://github.com/langong-dev/zff-electron.git
+git clone https://github.com/ohzff/zff-electron.git
 cd zff-electron
 yarn install # or npm install
 ```
@@ -53,7 +53,7 @@ Only for Mac or Linux
 Install LanFilePackage first. [Click me](https://github.com/langong-dev/LanFilePackage)
 
 ```bash
-lfp install langong zff-electron
+lfp install zff zff-electron
 ```
 
 ### Install with Zip
