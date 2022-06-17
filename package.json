@@ -19,7 +19,7 @@
   "author": "langong-dev",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^9.0.5",
+    "electron": "^15.5.5",
     "electron-builder": "^22.7.0"
   },
   "build": {
